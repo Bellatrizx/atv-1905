@@ -15,7 +15,7 @@
 ### Captura de Tela executando o projeto
 
 
-<img src="https://github.com/vlipe/atividades-2DS/blob/08025132b871ed7df494047f5c2128293fe4f79a/Programa%C3%A7%C3%A3o%20de%20Aplicativos%20Mobile%20I/2%C2%B0%20Bimestre/Formul%C3%A1rio%20com%20%C3%8Dcone/Imagens/print-execucao.png">
+<img src="https://github.com/Bellatrizx/atv-1905/blob/846581297cae9c09777e67bc232172ed8c7a156e/print.png">
 
 <br>
 <br>

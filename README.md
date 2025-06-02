@@ -7,7 +7,7 @@
 
 *Tecnologias:*
 
-![Kotlin](https://img.shields.io/badge/kotlin-%2285f5ff.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%2285f5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <br>
 <br>
